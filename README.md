@@ -34,8 +34,8 @@ App can be easily navigated in several steps:
 
 
 # Website URL:
-https://example.com
-# Repository Localtion:
+https://llkaplan.github.io/BookWorm/
+# Repository Location:
 https://github.com/hanaadhami/BookWorm
 
 
